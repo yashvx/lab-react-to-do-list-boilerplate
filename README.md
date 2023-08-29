@@ -16,7 +16,7 @@ You can consider this as a lab/project which covers everything that we have lear
 
 Whenever you create a first significant change, you should make your first commit.
 
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
+3. Follow these [guidelines to add, commit and push changes](https://github.com/Kalvium-Program/general-guidelines-labs-project-builders).
 
 ### Introduction:
 For this exercise, the aim is just to see how simple CRUD operations can be performed. 
